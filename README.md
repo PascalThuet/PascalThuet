@@ -12,21 +12,20 @@ Based in France · [@ArteGEIE](https://www.arte.tv) · [LinkedIn](https://linked
 - Make architecture and build-vs-buy decisions across heterogeneous teams
 - Bridge engineering, product, and business — so things actually ship
 
-I'm not the best coder in the room. My job is to make sure the best coders are in the right room — while staying close enough to the code to know the difference.
+I'm not the best coder in the room. My job is to make sure the best coders are in the right room, while staying close enough to the code to know the difference.
 
 ---
 
 ## Open source contributions
 
-I use coding agents to contribute directly — reviewing, testing, and validating everything before it ships.
-
+I contribute to open source projects I use in production, not as a developer, but as someone who runs them at scale and has things to say about how they behave in the real world.
 → [All merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3APascalThuet+is%3Apublic)
 
 ---
 
 ## On coding agents
 
-I think coding agents are reshaping how engineering, product and business teams work together — blurring boundaries, accelerating decisions, and raising the bar for everyone involved.
+I think coding agents are reshaping how engineering, product and business teams work together, blurring boundaries, accelerating decisions, and raising the bar for everyone involved.
 
 ---
 
