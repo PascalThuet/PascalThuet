@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Pascal 👋
 
-<!--
-**PascalThuet/PascalThuet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I set the strategy and lead the execution — across engineering, product and business.
 
-Here are some ideas to get you started:
+Based in France · [@ArteGEIE](https://www.arte.tv) · [LinkedIn](https://linkedin.com/in/VOTRE-PROFIL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I actually do
+
+- Define and own the technical, product and business strategy of a large streaming & data/AI portfolio
+- Make architecture and build-vs-buy decisions across heterogeneous teams
+- Bridge engineering, product, and business — so things actually ship
+
+I'm not the best coder in the room. My job is to make sure the best coders are in the right room — while staying close enough to the code to know the difference.
+
+---
+
+## Open source contributions
+
+I use coding agents to contribute directly — reviewing, testing, and validating everything before it ships.
+
+→ [All merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3APascalThuet+is%3Apublic)
+
+---
+
+## On coding agents
+
+I think coding agents are reshaping how engineering, product and business teams work together — blurring boundaries, accelerating decisions, and raising the bar for everyone involved.
+
+---
+
+## Topics I think about
+
+![Streaming](https://img.shields.io/badge/Streaming-FF6B35?style=flat)
+![Media Tech](https://img.shields.io/badge/Media_Tech-1A1A2E?style=flat)
+![AI Products](https://img.shields.io/badge/AI_Products-412991?style=flat)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-0066CC?style=flat)
+![Product Strategy](https://img.shields.io/badge/Product_Strategy-F4A500?style=flat)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-2D9B27?style=flat)
+
+---
+
+## Let's talk
+
+→ [LinkedIn](https://linkedin.com/in/VOTRE-PROFIL)
