@@ -10,7 +10,7 @@ Based in France · [@ArteGEIE](https://www.arte.tv) · [LinkedIn](https://www.li
 
 - Define and own the technical, product and business strategy of a large streaming & data/AI portfolio
 - Make architecture and build-vs-buy decisions across heterogeneous teams
-- Bridge engineering, product, and business — so things actually ship
+- Bridge engineering, product, and business, so things actually ship
 
 I'm not the best coder in the room. My job is to make sure the best coders are in the right room, while staying close enough to the code to know the difference.
 
