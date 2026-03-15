@@ -2,7 +2,7 @@
 
 I set the strategy and lead the execution — across engineering, product and business.
 
-Based in France · [@ArteGEIE](https://www.arte.tv) · [LinkedIn](https://linkedin.com/in/VOTRE-PROFIL)
+Based in France · [@ArteGEIE](https://www.arte.tv) · [LinkedIn](https://www.linkedin.com/in/pascal-thuet/)
 
 ---
 
