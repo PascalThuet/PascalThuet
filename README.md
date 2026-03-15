@@ -40,6 +40,6 @@ I think coding agents are reshaping how engineering, product and business teams 
 
 ---
 
-## Let's talk
+## Let's talk 
 
-→ [LinkedIn](https://linkedin.com/in/VOTRE-PROFIL)
+→ [LinkedIn](https://www.linkedin.com/in/pascal-thuet/)
